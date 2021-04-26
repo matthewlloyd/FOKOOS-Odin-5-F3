@@ -42,7 +42,7 @@ To do this on Windows, copy the following files from the FOKOOS Slicer installat
 
 ### Firmware
 
-The printer's firmware is closely based on the [Robin Nano](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware) firmware, possibly with no changes and has an identical interface. This is a Marlin-based firmware. FOKOOS has not yet provided the source to the firmware. The firmware can be upgraded, but using the Robin Nano firmware will require editing the headers to configure the firmware for the printer.
+The printer's firmware is closely based on the [Robin Nano](https://github.com/makerbase-mks/MKS-Robin-Nano-Firmware) firmware, possibly with no changes and has an identical interface. This is a Marlin-based firmware. FOKOOS has not yet provided the source to the firmware. The firmware can be upgraded, but using the Robin Nano firmware requires editing the headers to configure the firmware for the printer - instructions can be found [here](https://github.com/martinbogo/Marlin-2.0-for-Odin-5-F3).
 
 ## 3rd Party Compatibility
 
